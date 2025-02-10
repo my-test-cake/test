@@ -1,0 +1,27 @@
+{
+  "name": "my-test-cake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my-test-cake/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/my-test-cake/test/issues"
+  },
+  "homepage": "https://github.com/my-test-cake/test#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
